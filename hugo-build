@@ -15,7 +15,7 @@ fi
 echo $message
 
 # Create a local copy for nginx to serve
-hugo
+hugo --baseURL "http://localhost:4201"
 rm -r ~/local/web/fresh-food
 mkdir -p ~/local/web/fresh-food
 cp ./dist/*  ~/local/web/fresh-food
@@ -23,7 +23,7 @@ cp ./dist/*  ~/local/web/fresh-food
 # busybox httpd -p 4201 -h ~/local/web/fresh-food
 
 # Build for github
-ng build --base-href "https://davidgma.github.io/fresh-food/"
+hugo --baseURL "https://davidgma.github.io/fresh-food/"
 git add *
 git commit -a -m "${message}"
 git push
