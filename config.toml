@@ -1,9 +1,10 @@
-baseURL = "https://example.com"
+baseURL = "https://davidgma.github.io/fresh-food/"
 languageCode = "en-gb"
 DefaultContentLanguage = "en"
 title = "Fresh Food"
 theme = "hugo-theme-learn"
 defaultContentLanguageInSubdir = true
+publishDir = "dist"
 
 # For search functionality
 [outputs]

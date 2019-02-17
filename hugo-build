@@ -1,0 +1,31 @@
+#!/bin/bash
+# The command to build the Hugo project so that it can be served by Github pages.
+# The config.toml file should have the publishDir set to the dist directory only:
+# publishDir = "dist"
+# The Github setting for pages should choose the gh-pages branch.
+# npm install -g angular-cli-ghpages
+
+
+if [ $# -gt 0 ]; then
+	message=$*
+else
+	message="Upload changes."
+fi
+
+echo $message
+
+# Create a local copy for nginx to serve
+hugo
+rm -r ~/local/web/fresh-food
+mkdir -p ~/local/web/fresh-food
+cp ./dist/*  ~/local/web/fresh-food
+# to use:
+# busybox httpd -p 4201 -h ~/local/web/fresh-food
+
+# Build for github
+ng build --base-href "https://davidgma.github.io/fresh-food/"
+git add *
+git commit -a -m "${message}"
+git push
+ngh
+
