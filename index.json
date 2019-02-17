@@ -7,6 +7,13 @@
 	"content": " Chapter 1 Overview Overview of the diet.    \n"
 },
 {
+	"uri": "https://davidgma.github.io/fresh-food/",
+	"title": "Fresh Food",
+	"tags": [],
+	"description": "",
+	"content": "Fresh Food\nLearn Theme at:\nhttps://themes.gohugo.io/hugo-theme-learn/\nTheme documentation at:\nhttps://learn.netlify.com/en/\nhttps://learn.netlify.com/en/cont/markdown/\nHugo documentation at:\nhttps://gohugo.io/documentation/\nDeploy on Github Pages:\nhttps://gohugo.io/hosting-and-deployment/hosting-on-github/\nIcons: https://fontawesome.com/icons?d=gallery\u0026amp;m=free\nIcons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY "
+},
+{
 	"uri": "https://davidgma.github.io/fresh-food/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -16,13 +23,6 @@
 {
 	"uri": "https://davidgma.github.io/fresh-food/tags/",
 	"title": "Tags",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://davidgma.github.io/fresh-food/",
-	"title": "The Fresh Food Diet",
 	"tags": [],
 	"description": "",
 	"content": ""
