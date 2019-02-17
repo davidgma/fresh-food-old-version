@@ -18,7 +18,7 @@ echo $message
 hugo --baseURL "http://localhost:4201"
 rm -r ~/local/web/fresh-food
 mkdir -p ~/local/web/fresh-food
-cp ./dist/*  ~/local/web/fresh-food
+cp -r ./dist/*  ~/local/web/fresh-food
 # to use:
 # busybox httpd -p 4201 -h ~/local/web/fresh-food
 
