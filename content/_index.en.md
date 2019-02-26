@@ -2,26 +2,26 @@
 title: "Fresh Food"
 date: 2019-02-03T19:52:27Z
 draft: false
+weight: 5
 ---
-Fresh Food
 
-Learn Theme at:   
-https://themes.gohugo.io/hugo-theme-learn/
+# The Fresh Food Diet
 
-Theme documentation at:   
-https://learn.netlify.com/en/   
+This is a diet based on a combination of:   
 
-https://learn.netlify.com/en/cont/markdown/
+1. Several fairly widely-accepted, although not exactly mainstream, concepts about the recent rise of obesity and other chronic illnesses.
+1. An entirely unproven theory of my own about biogenic amines that I've never heard anyone else suggest, is contradictory to mainstream theory and therefore quite possibly wrong.
+1. A 'broken mechanism'-based approach to looking at obesity and other diseases of industrialisation.
 
-Hugo documentation at:   
-https://gohugo.io/documentation/
+It involves eating fresh food, but what constitutes fresh is quite strict - some foods considered fresh by many people are forbidden.
 
-Deploy on Github Pages:   
-https://gohugo.io/hosting-and-deployment/hosting-on-github/
+It does not involve going hungry - it is not a calorie-controlled diet. You can eat as much as you like. But it does require self-discipline, at least initially, because for most people it probably involves a complete change of eating habits, more difficult shopping, more time spent cooking and the foregoing of many compelling foods.
 
-Icons:
-https://fontawesome.com/icons?d=gallery&m=free
+It also involves various other behaviours which I consider healthy.
 
-<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+I personally follow this diet and it seems to work for me. According to my genetic analysis on the website 23andMe, I am predisposed to weigh 190 pounds (86kg, 13 stone 8) whereas I actually weigh 145 pounds (66kg, 10 stone 5). According to an MRI scan I have zero detectable calcified plaque in my heart and arteries, and my blood test levels for inflammation are always low. 
 
+Whether it works for anyone else or not - I don't know. But I wanted to set out my diet in case anyone else wants to try it. But if you do, please note [The Mother Of All Disclaimers][disclaimer]. 
+
+ [disclaimer]: {{%relref "overview/disclaimer.md"%}}
 

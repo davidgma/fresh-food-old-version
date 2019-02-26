@@ -1,5 +1,19 @@
 [
 {
+	"uri": "https://davidgma.github.io/fresh-food/dev_notes/useful_links/",
+	"title": "Useful Links",
+	"tags": [],
+	"description": "",
+	"content": "Learn Theme at:\nhttps://themes.gohugo.io/hugo-theme-learn/\nTheme documentation at:\nhttps://learn.netlify.com/en/\nhttps://learn.netlify.com/en/cont/markdown/\nHugo documentation at:\nhttps://gohugo.io/documentation/\nDeploy on Github Pages:\nhttps://gohugo.io/hosting-and-deployment/hosting-on-github/\nIcons: https://fontawesome.com/icons?d=gallery\u0026amp;m=free\nIcons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY "
+},
+{
+	"uri": "https://davidgma.github.io/fresh-food/",
+	"title": "Fresh Food",
+	"tags": [],
+	"description": "",
+	"content": " The Fresh Food Diet This is a diet based on a combination of:\n Several fairly widely-accepted, although not exactly mainstream, concepts about the recent rise of obesity and other chronic illnesses. An entirely unproven theory of my own about biogenic amines that I\u0026rsquo;ve never heard anyone else suggest, is contradictory to mainstream theory and therefore quite possibly wrong. A \u0026lsquo;broken mechanism\u0026rsquo;-based approach to looking at obesity and other diseases of industrialisation.  It involves eating fresh food, but what constitutes fresh is quite strict - some foods considered fresh by many people are forbidden.\nIt does not involve going hungry - it is not a calorie-controlled diet. You can eat as much as you like. But it does require self-discipline, at least initially, because for most people it probably involves a complete change of eating habits, more difficult shopping, more time spent cooking and the foregoing of many compelling foods.\nIt also involves various other behaviours which I consider healthy.\nI personally follow this diet and it seems to work for me. According to my genetic analysis on the website 23andMe, I am predisposed to weigh 190 pounds (86kg, 13 stone 8) whereas I actually weigh 145 pounds (66kg, 10 stone 5). According to an MRI scan I have zero detectable calcified plaque in my heart and arteries, and my blood test levels for inflammation are always low.\nWhether it works for anyone else or not - I don\u0026rsquo;t know. But I wanted to set out my diet in case anyone else wants to try it. But if you do, please note The Mother Of All Disclaimers.\n"
+},
+{
 	"uri": "https://davidgma.github.io/fresh-food/overview/",
 	"title": "Overview",
 	"tags": [],
@@ -7,11 +21,25 @@
 	"content": " Chapter 1 Overview Overview of the diet.    \n"
 },
 {
-	"uri": "https://davidgma.github.io/fresh-food/",
-	"title": "Fresh Food",
+	"uri": "https://davidgma.github.io/fresh-food/amines/",
+	"title": "Amines",
 	"tags": [],
 	"description": "",
-	"content": "Fresh Food\nLearn Theme at:\nhttps://themes.gohugo.io/hugo-theme-learn/\nTheme documentation at:\nhttps://learn.netlify.com/en/\nhttps://learn.netlify.com/en/cont/markdown/\nHugo documentation at:\nhttps://gohugo.io/documentation/\nDeploy on Github Pages:\nhttps://gohugo.io/hosting-and-deployment/hosting-on-github/\nIcons: https://fontawesome.com/icons?d=gallery\u0026amp;m=free\nIcons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY "
+	"content": " Chapter 3 Biogenic Amines - My Theory that dietary biogenic amines pass from the gut into the bloodstream in between 60% and 100% of people, and not between 2% and 5% as is the mainstream view. This might seem like a minor detail\n"
+},
+{
+	"uri": "https://davidgma.github.io/fresh-food/dev_notes/",
+	"title": "Dev Notes",
+	"tags": [],
+	"description": "",
+	"content": " Appendix I Site Development Notes This appendix contains some notes about the tools and technologies used to build this website.\n"
+},
+{
+	"uri": "https://davidgma.github.io/fresh-food/overview/disclaimer/",
+	"title": "The Mother Of All Disclaimers",
+	"tags": [],
+	"description": "",
+	"content": "The details about this diet are provided in the hope that they may be useful or interesting to others, but they are provided \u0026lsquo;as-is\u0026rsquo; without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders\nBE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\nhttps://en.wikipedia.org/wiki/Wikipedia:General_disclaimer\n"
 },
 {
 	"uri": "https://davidgma.github.io/fresh-food/categories/",
