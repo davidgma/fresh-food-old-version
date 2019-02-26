@@ -11,5 +11,34 @@
 	<atom:link href="https://davidgma.github.io/fresh-food/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Useful Links</title>
+      <link>https://davidgma.github.io/fresh-food/dev_notes/useful_links/</link>
+      <pubDate>Tue, 26 Feb 2019 18:51:14 +0000</pubDate>
+      
+      <guid>https://davidgma.github.io/fresh-food/dev_notes/useful_links/</guid>
+      <description>Learn Theme at:
+https://themes.gohugo.io/hugo-theme-learn/
+Theme documentation at:
+https://learn.netlify.com/en/
+https://learn.netlify.com/en/cont/markdown/
+Hugo documentation at:
+https://gohugo.io/documentation/
+Deploy on Github Pages:
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+Icons: https://fontawesome.com/icons?d=gallery&amp;amp;m=free
+Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY </description>
+    </item>
+    
+    <item>
+      <title>The Mother Of All Disclaimers</title>
+      <link>https://davidgma.github.io/fresh-food/overview/disclaimer/</link>
+      <pubDate>Tue, 26 Feb 2019 20:07:10 +0000</pubDate>
+      
+      <guid>https://davidgma.github.io/fresh-food/overview/disclaimer/</guid>
+      <description>The details about this diet are provided in the hope that they may be useful or interesting to others, but they are provided &amp;lsquo;as-is&amp;rsquo; without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the authors or copyright holders
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</description>
+    </item>
+    
   </channel>
 </rss>
