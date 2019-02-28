@@ -11,9 +11,5 @@ pre = "<b>1. </b>"
 # Overview
 
 Overview of the diet. 
-<span style="font-size: 3em; color: blue;">
-<i class="fas fa-heart"></i>
-<i class="fas fa-american-sign-language-interpreting"></i>
-  <i class="fas fa-igloo"></i>
-</span>
+
 
