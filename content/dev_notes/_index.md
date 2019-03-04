@@ -1,7 +1,7 @@
 +++
 title = "Development Notes"
 date = 2019-02-26T18:49:15Z
-weight = 15
+weight = 35
 chapter = true
 pre = "<b>Appendix I. </b>"
 +++

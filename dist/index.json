@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://davidgma.github.io/fresh-food/practice/rdi/",
+	"title": "Recommended Daily Intakes",
+	"tags": [],
+	"description": "",
+	"content": " Recommended Daily Intakes. "
+},
+{
 	"uri": "https://davidgma.github.io/fresh-food/theory/main_rules/micronutrients/",
 	"title": "Micronutrients",
 	"tags": [],
@@ -70,6 +77,20 @@
 	"content": "The details about this diet are provided in the hope that they may be useful or interesting to others, but they are provided \u0026lsquo;as-is\u0026rsquo; without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. In no event shall the author or copyright holder be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the content on this website.\nThe author makes no guarantee of the validity of any content on this website.\nThe content of this website should not be taken as fact or an expert opinion. The author has no medical or nutritional qualifications. The author is in fact a retired accountant and computer programmer. He is also the laziest and most foolish man in the world.\nThe content on this website has not been evaluated by any official organisation and is not intended to cure, treat, prevent or diagnose any illness.\nThe content on this website is not a substitute for seeking medical advice and medical advice should always be sought before embarking on any changes in diet or lifestyle.\nThis is the author\u0026rsquo;s diet and it is entirely up to him what is allowed and what is forbidden. If you don\u0026rsquo;t agree with or like his decisions then you may read about or follow a different diet.\n"
 },
 {
+	"uri": "https://davidgma.github.io/fresh-food/theory/fresh_rules/",
+	"title": "Fresh Food Rules",
+	"tags": [],
+	"description": "",
+	"content": "This section explains the rules for which foods are considered genuinely fresh.\n"
+},
+{
+	"uri": "https://davidgma.github.io/fresh-food/practice/",
+	"title": "Practice",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 3 Practical notes on following the diet. This section contains some notes that may be helpful for following the diet in practice.\n"
+},
+{
 	"uri": "https://davidgma.github.io/fresh-food/dev_notes/",
 	"title": "Development Notes",
 	"tags": [],
@@ -77,11 +98,11 @@
 	"content": " Appendix I Site Development Notes This appendix contains some notes about the tools and technologies used to build this website.\n   \n"
 },
 {
-	"uri": "https://davidgma.github.io/fresh-food/theory/fresh_rules/",
-	"title": "Fresh Food Rules",
+	"uri": "https://davidgma.github.io/fresh-food/practice/rdi/introduction/",
+	"title": "Introduction",
 	"tags": [],
 	"description": "",
-	"content": "This section explains the rules for which foods are considered genuinely fresh.\n"
+	"content": "It is a fundamental part of this diet that sufficient micronutrients must be consumed. But exactly how much of each micronutrient is needed is a lot less clear-cut than you might think. On the one hand, some doctors pooh-pooh the idea that a healthy person in the developed world could be deficient in any micronutrient at all. On the other hand the US government recommends daily intakes that are generally far higher than those of other countries\u0026rsquo; governments.\nTake the example of potassium. According to the US government fact sheet only 400 - 800 mg of potassium are needed daily for an adult to maintain enough potassium in the body, assuming they are starting from a point of adequate potassium in their body and they don\u0026rsquo;t have any potassium-depleting illnesses such as diarrhoea. Another study referenced on this website found that potassium deficiencies are rarely caused by a lack of potassium in the diet but rather by specific potassium-depleting diseases.\nSo you might reasonably think that the recommended daily intake for a healthy adult would be at least 400 mg per day and no more than 800 mg per day (as a minimum - more than this is fine). Yet the US recommends a minimum of 4,700 mg of potassium per day. The UK recommends 3,500 mg. The fact sheet referenced above accepts that there is insufficient evidence to recommended a daily intake. My guess is that this is because it is, in practice, very hard to eat less than the 800 mg needed and they probably couldn\u0026rsquo;t find any examples of healthy people with a potassium deficiency. The figure of 4,700 mg is the \u0026lsquo;adequate intake\u0026rsquo; - the amount with which nutritional adequacy is ensured. Well, I wouldn\u0026rsquo;t dispute that nutritional adequacy is very likely ensured at that intake level.\nIn a world where everyone had unlimited money to spend on food and loved root vegetables, putting the recommended intake for potassium so high wouldn\u0026rsquo;t matter. But the reality is that many people, even in developed countries, do struggle financially and don\u0026rsquo;t necessarily want to eat large amounts of root vegetables every day. And vegetables are expensive per calorie. Cheaper foods like oats and lentils contain easily enough potassium to meet the 800 mg a day target but not nearly enough to make the 4,700 mg target.\nUltimately, it is a personal decision what level to aim for. If you want to be absolutely sure you are getting enough micronutrients, by all means aim for the US recommended levels. Personally, I prefer to spend less money and have a greater variety in what I eat, so I aim to get at least 800 mg of potassium, which is extremely easy to do (in practice I exceed this by a long way) and I don\u0026rsquo;t stress over trying to get 3,500 mg.\n"
 },
 {
 	"uri": "https://davidgma.github.io/fresh-food/categories/",
