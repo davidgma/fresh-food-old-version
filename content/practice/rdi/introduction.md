@@ -2,6 +2,7 @@
 title: "Introduction"
 date: 2019-03-04T13:46:36Z
 draft: false
+weight: 10
 ---
 
 It is a fundamental part of this diet that sufficient micronutrients must be consumed. But exactly how much of each micronutrient is needed is a lot less clear-cut than you might think. On the one hand, some doctors pooh-pooh the idea that a healthy person in the developed world could be deficient in any micronutrient at all. On the other hand the US government recommends daily intakes that are generally far higher than those of other countries' governments.
