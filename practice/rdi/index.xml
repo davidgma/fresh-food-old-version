@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommended Daily Intakes on The Fresh Food Diet</title>
+    <link>https://davidgma.github.io/fresh-food/practice/rdi/</link>
+    <description>Recent content in Recommended Daily Intakes on The Fresh Food Diet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 04 Mar 2019 11:27:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://davidgma.github.io/fresh-food/practice/rdi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://davidgma.github.io/fresh-food/practice/rdi/introduction/</link>
+      <pubDate>Mon, 04 Mar 2019 13:46:36 +0000</pubDate>
+      
+      <guid>https://davidgma.github.io/fresh-food/practice/rdi/introduction/</guid>
+      <description>It is a fundamental part of this diet that sufficient micronutrients must be consumed. But exactly how much of each micronutrient is needed is a lot less clear-cut than you might think. On the one hand, some doctors pooh-pooh the idea that a healthy person in the developed world could be deficient in any micronutrient at all. On the other hand the US government recommends daily intakes that are generally far higher than those of other countries&amp;rsquo; governments.</description>
+    </item>
+    
+  </channel>
+</rss>
