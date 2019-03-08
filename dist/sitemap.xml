@@ -8,12 +8,22 @@
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/theory/main_rules/micronutrients/</loc>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/2_1_main_rules/micronutrients/</loc>
     <lastmod>2019-02-28T13:20:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/theory/amines/</loc>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/</loc>
+    <lastmod>2019-02-28T13:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/1_histamine_intolerance/</loc>
+    <lastmod>2019-02-28T13:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/2_human_study/</loc>
     <lastmod>2019-02-28T13:11:12+00:00</lastmod>
   </url>
   
@@ -23,7 +33,12 @@
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/dev_notes/useful_links/</loc>
+    <loc>https://davidgma.github.io/fresh-food/x1_dev_notes/useful_links/</loc>
+    <lastmod>2019-02-26T18:51:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidgma.github.io/fresh-food/x2_links/useful_links/</loc>
     <lastmod>2019-02-26T18:51:14+00:00</lastmod>
   </url>
   
@@ -43,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/theory/</loc>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/</loc>
     <lastmod>2019-02-28T13:07:11+00:00</lastmod>
   </url>
   
@@ -58,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/theory/main_rules/</loc>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/2_1_main_rules/</loc>
     <lastmod>2019-02-28T13:15:42+00:00</lastmod>
   </url>
   
@@ -68,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/theory/fresh_rules/</loc>
+    <loc>https://davidgma.github.io/fresh-food/2_theory/2_2_fresh_rules/</loc>
     <lastmod>2019-02-28T13:17:16+00:00</lastmod>
   </url>
   
@@ -78,7 +93,12 @@
   </url>
   
   <url>
-    <loc>https://davidgma.github.io/fresh-food/dev_notes/</loc>
+    <loc>https://davidgma.github.io/fresh-food/x1_dev_notes/</loc>
+    <lastmod>2019-02-26T18:49:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidgma.github.io/fresh-food/x2_links/</loc>
     <lastmod>2019-02-26T18:49:15+00:00</lastmod>
   </url>
   
