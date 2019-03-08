@@ -13,21 +13,32 @@
     
     <item>
       <title>Micronutrients</title>
-      <link>https://davidgma.github.io/fresh-food/theory/main_rules/micronutrients/</link>
+      <link>https://davidgma.github.io/fresh-food/2_theory/2_1_main_rules/micronutrients/</link>
       <pubDate>Thu, 28 Feb 2019 13:20:59 +0000</pubDate>
       
-      <guid>https://davidgma.github.io/fresh-food/theory/main_rules/micronutrients/</guid>
+      <guid>https://davidgma.github.io/fresh-food/2_theory/2_1_main_rules/micronutrients/</guid>
       <description>It is widely accepted that there are certain micronutrients - vitamins and minerals - that are needed for the body to function correctly.</description>
     </item>
     
     <item>
-      <title>Biogenic Amines - My Theory</title>
-      <link>https://davidgma.github.io/fresh-food/theory/amines/</link>
+      <title>Histamine Intolerance</title>
+      <link>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/1_histamine_intolerance/</link>
       <pubDate>Thu, 28 Feb 2019 13:11:12 +0000</pubDate>
       
-      <guid>https://davidgma.github.io/fresh-food/theory/amines/</guid>
-      <description>Introduction My theory, and it is only a theory, is that dietary biogenic amines pass from the gut into the bloodstream in between 60% and 100% of people, and not between 2% and 5% as is the mainstream view.
-This might seem like a minor detail of no real significance, but in fact it is hugely significant. If this theory is true, everything changes. The vast majority of foods available in a typical supermarket, including foods currently considered healthy, would instead be considered unhealthy and would probably end up being banned by governments.</description>
+      <guid>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/1_histamine_intolerance/</guid>
+      <description>Histamine Intolerance - What is accepted by the mainstream. Let me start with an overview of histamine intolerance - a condition I personally suffer from - because it sets out what is accepted by the mainstream scientists and doctors.
+Histamine intolerance is an officially-recognised condition that is based on the following 3 accepted facts.
+ Many modern foods, unlike those eaten by our ancestors, contain relatively large quantities of histamine and other so-called &amp;lsquo;biogenic amines&amp;rsquo; - molecules that are used internally as a signalling chemical for various purposes by many species including humans.</description>
+    </item>
+    
+    <item>
+      <title>Human study</title>
+      <link>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/2_human_study/</link>
+      <pubDate>Thu, 28 Feb 2019 13:11:12 +0000</pubDate>
+      
+      <guid>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/2_human_study/</guid>
+      <description>Pubmed study on humans Given the enormous repercussions should it be the case that biogenic amines in food do pass into the bloodstream of most people, it is surprisingly hard to find any evidence one way or the other. It doesn&amp;rsquo;t seem to have been studied much.
+I suspect this is because, as only about 1% of people show symptoms of histamine intolerance, it is simply assumed that everyone else is able to fully neutralize biogenic amines.</description>
     </item>
     
     <item>
@@ -42,10 +53,10 @@ This might seem like a minor detail of no real significance, but in fact it is h
     
     <item>
       <title>Useful Links</title>
-      <link>https://davidgma.github.io/fresh-food/dev_notes/useful_links/</link>
+      <link>https://davidgma.github.io/fresh-food/x1_dev_notes/useful_links/</link>
       <pubDate>Tue, 26 Feb 2019 18:51:14 +0000</pubDate>
       
-      <guid>https://davidgma.github.io/fresh-food/dev_notes/useful_links/</guid>
+      <guid>https://davidgma.github.io/fresh-food/x1_dev_notes/useful_links/</guid>
       <description>Learn Theme at:
 https://themes.gohugo.io/hugo-theme-learn/
 Theme documentation at:
@@ -57,6 +68,16 @@ Deploy on Github Pages:
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 Icons: https://fontawesome.com/icons?d=gallery&amp;amp;m=free
 Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY </description>
+    </item>
+    
+    <item>
+      <title>Useful Links</title>
+      <link>https://davidgma.github.io/fresh-food/x2_links/useful_links/</link>
+      <pubDate>Tue, 26 Feb 2019 18:51:14 +0000</pubDate>
+      
+      <guid>https://davidgma.github.io/fresh-food/x2_links/useful_links/</guid>
+      <description>The American Journal of Clinical Nutrition on Histamine Intolerance:
+https://academic.oup.com/ajcn/article/85/5/1185/4633007#</description>
     </item>
     
     <item>
