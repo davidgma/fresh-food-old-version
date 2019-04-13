@@ -1,11 +1,9 @@
 ---
-title: "Human study"
+title: "The Human study"
 date: 2019-02-28T13:11:12Z
 draft: false
 weight: 5
 ---
-
-### Pubmed study on humans
 
 Given the enormous repercussions should it be the case that biogenic amines in food do pass into the bloodstream of most people, it is surprisingly hard to find any evidence one way or the other. It doesn't seem to have been studied much. 
 
