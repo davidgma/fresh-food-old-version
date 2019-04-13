@@ -6,7 +6,7 @@
     <description>Recent content in Biogenic Amines - My Theory on The Fresh Food Diet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 28 Feb 2019 13:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 14:39:47 +0100</lastBuildDate>
     
 	<atom:link href="https://davidgma.github.io/fresh-food/2_theory/2_3_amines/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,13 +23,22 @@ Histamine intolerance is an officially-recognised condition that is based on the
     </item>
     
     <item>
-      <title>Human study</title>
+      <title>The Human study</title>
       <link>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/2_human_study/</link>
       <pubDate>Thu, 28 Feb 2019 13:11:12 +0000</pubDate>
       
       <guid>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/2_human_study/</guid>
-      <description>Pubmed study on humans Given the enormous repercussions should it be the case that biogenic amines in food do pass into the bloodstream of most people, it is surprisingly hard to find any evidence one way or the other. It doesn&amp;rsquo;t seem to have been studied much.
+      <description>Given the enormous repercussions should it be the case that biogenic amines in food do pass into the bloodstream of most people, it is surprisingly hard to find any evidence one way or the other. It doesn&amp;rsquo;t seem to have been studied much.
 I suspect this is because, as only about 1% of people show symptoms of histamine intolerance, it is simply assumed that everyone else is able to fully neutralize biogenic amines.</description>
+    </item>
+    
+    <item>
+      <title>The Pig study</title>
+      <link>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/3_pig_study/</link>
+      <pubDate>Sat, 13 Apr 2019 14:39:47 +0100</pubDate>
+      
+      <guid>https://davidgma.github.io/fresh-food/2_theory/2_3_amines/3_pig_study/</guid>
+      <description>There was also a study of pigs where they gave some pigs a dose of histamine and some of the pigs also were given a substance to block their production of DAO. DAO is what pigs (and humans) naturally produce to neutralise biogenic amines such as histamine in their digestive systems to stop it going into their bloodstreams. The pigs with the blocked DAO production had severely raised levels of histamine in their blood.</description>
     </item>
     
   </channel>
