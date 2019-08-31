@@ -15,15 +15,17 @@ fi
 echo $message
 
 # Create a local copy for nginx to serve
-hugo --baseURL "http://localhost:4201"
-rm -r ~/local/web/fresh-food
-mkdir -p ~/local/web/fresh-food
-cp -r ./dist/*  ~/local/web/fresh-food
+hugo --baseURL "http://localhost:4202" --destination "./dist-local"
+#rm -r ~/local/web/fresh-food
+#mkdir -p ~/local/web/fresh-food
+#cp -r ./dist/*  ~/local/web/fresh-food
 # to use:
-# busybox httpd -p 4201 -h ~/local/web/fresh-food
+
+pkill -f "busybox httpd -p 4202 -h ./dist-local"
+busybox httpd -p 4202 -h ./dist-local
 
 # Build for github
-hugo --baseURL "https://davidgma.github.io/fresh-food/"
+hugo --baseURL "https://davidgma.github.io/fresh-food/" --destination "./dist"
 git add *
 git commit -a -m "${message}"
 git push

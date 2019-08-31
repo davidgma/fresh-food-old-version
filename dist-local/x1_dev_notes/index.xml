@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development Notes on The Fresh Food Diet</title>
+    <link>http://localhost:4202/x1_dev_notes/</link>
+    <description>Recent content in Development Notes on The Fresh Food Diet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 26 Feb 2019 18:49:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:4202/x1_dev_notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful Links</title>
+      <link>http://localhost:4202/x1_dev_notes/useful_links/</link>
+      <pubDate>Tue, 26 Feb 2019 18:51:14 +0000</pubDate>
+      
+      <guid>http://localhost:4202/x1_dev_notes/useful_links/</guid>
+      <description>Learn Theme at:
+https://themes.gohugo.io/hugo-theme-learn/
+Theme documentation at:
+https://learn.netlify.com/en/
+https://learn.netlify.com/en/cont/markdown/
+Hugo documentation at:
+https://gohugo.io/documentation/
+Deploy on Github Pages:
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+Icons: https://fontawesome.com/icons?d=gallery&amp;amp;m=free
+Icons made by Freepik from www.flaticon.com is licensed by CC 3.0 BY </description>
+    </item>
+    
+  </channel>
+</rss>
