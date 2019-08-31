@@ -1,7 +1,7 @@
 ---
 title: "Calcium"
 date: 2019-03-13T17:13:39Z
-draft: false
+draft: true
 ---
 
 The recommended daily intake for calcium for different countries varies mostly from [400 mg per day to 800 mg per day](http://apjcn.nhri.org.tw/server/apjcn/2/4/183.htm). The World Health Organisation recommends [400-500 mg per day](https://www.who.int/dietphysicalactivity/publications/trs916/en/gsfao_osteo.pdf?ua=1). In the UK it is 700 mg per day. As usual, the US has a far higher RDI than everyone else at [1000 mg per day](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/calcium-supplements/art-20047097). One of the reasons that there is a variation, beyond the power of supplements lobbyists, is the source of the calcium. It is far better absorbed from green leafy vegetables than it is from dairy. Japan, where people eat more green leafy vegetables and less dairy than the US, has one of the lower RDIs.

@@ -16,11 +16,6 @@ echo $message
 
 # Create a local copy for nginx to serve
 hugo --baseURL "http://localhost:4202" --destination "./dist-local"
-#rm -r ~/local/web/fresh-food
-#mkdir -p ~/local/web/fresh-food
-#cp -r ./dist/*  ~/local/web/fresh-food
-# to use:
-
 pkill -f "busybox httpd -p 4202 -h ./dist-local"
 busybox httpd -p 4202 -h ./dist-local
 
