@@ -1,12 +1,5 @@
 [
 {
-	"uri": "http://localhost:4202/practice/rdi/",
-	"title": "Recommended Daily Intakes",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "http://localhost:4202/2_theory/2_3_amines/",
 	"title": "Biogenic Amines - My Theory",
 	"tags": [],
@@ -103,13 +96,6 @@
 	"tags": [],
 	"description": "",
 	"content": "This section explains the rules for which foods are considered genuinely fresh.\n"
-},
-{
-	"uri": "http://localhost:4202/practice/",
-	"title": "Practice",
-	"tags": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "http://localhost:4202/x1_dev_notes/",
