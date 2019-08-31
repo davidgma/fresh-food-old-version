@@ -1,7 +1,7 @@
 ---
 title: "Main Diet Rules"
 date: 2019-02-28T13:15:42Z
-draft: false
+draft: true
 weight: 15
 ---
 
