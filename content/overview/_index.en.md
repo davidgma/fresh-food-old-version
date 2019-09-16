@@ -8,7 +8,7 @@ pre = "<b>1. </b>"
 
 ### Chapter 1
 
-# Overview2
+# Overview
 
 Overview of the diet.
 
