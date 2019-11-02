@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:4202/2_theory/2_3_amines/</loc>
+    <lastmod>2019-02-28T13:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/2_theory/2_3_amines/1_histamine_intolerance/</loc>
+    <lastmod>2019-02-28T13:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/2_theory/2_3_amines/2_human_study/</loc>
+    <lastmod>2019-02-28T13:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/overview/main_rules/</loc>
+    <lastmod>2019-02-28T11:10:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/x1_dev_notes/useful_links/</loc>
+    <lastmod>2019-02-26T18:51:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/x2_links/useful_links/</loc>
+    <lastmod>2019-02-26T18:51:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/</loc>
+    <lastmod>2019-02-03T19:52:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/overview/</loc>
+    <lastmod>2019-02-03T19:46:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/2_theory/2_3_amines/3_pig_study/</loc>
+    <lastmod>2019-04-13T14:39:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/2_theory/</loc>
+    <lastmod>2019-02-28T13:07:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/overview/fresh_rules/</loc>
+    <lastmod>2019-02-28T11:21:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/overview/disclaimer/</loc>
+    <lastmod>2019-02-26T20:07:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/x1_dev_notes/</loc>
+    <lastmod>2019-02-26T18:49:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/x2_links/</loc>
+    <lastmod>2019-02-26T18:49:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4202/tags/</loc>
+  </url>
+  
+</urlset>
