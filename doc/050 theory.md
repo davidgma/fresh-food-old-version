@@ -14,7 +14,7 @@ In the past 200 or so years, and especially in the past 40 years, there has been
 1. Cognitive diseases (e.g. Alzheimer's Disease)
 1. Neurological and neuropsychiatric diseases (e.g. eating disorders, schizophrenia, depression)
 
-These diseases are sometimes collectively called the 'diseases of industrialization'. Many of them could equally well be called the diseases of inflammation as chronic inflammation is common to many of them all. 
+These diseases are sometimes collectively called the 'diseases of industrialization'. Many of them could equally well be called the diseases of inflammation as chronic inflammation is common to many of them. 
 
 Researchers have been trying to work out why this has happened, and they are still not sure. All that is known for sure is that we went from eating fresh, local, in-season produce, prepared in our own kitchens, to eating food with long shelf lives that have been produced and prepared elsewhere. Most researchers, as far as I can tell, agree that some aspects of this have caused the problems. But no one really knows exactly what the aspects are, advice on what to do has been astoundingly unsuccessful and there isn't really a very good explanation for exactly what is causing the chronic inflammation.
 
