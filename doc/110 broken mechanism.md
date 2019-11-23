@@ -1,6 +1,6 @@
 ## Broken Mechanisms
 
-In my opinion, most or all of the 'diseases of industrialisation' can be viewed as failures of mechanisms in our bodies rather than mainly the result of an external cause.  
+In my opinion, most or all of the 'diseases of industrialisation' can be viewed as failures of mechanisms in our bodies rather than mainly the result of an external cause. This is more a way of looking at things rather than a new theory in itself.  
 
 The mainstream approach seems to be to treat all diseases as the result of an external cause, perhaps because, before the diseases of industrialisation, this was probably almost always the case. For example, if a person is bitten by a mosquito that passes on the parasite that causes malaria, then that parasite is the external cause of the malaria. Whether the person survives will depend on whether their immune systems can defeat the parasite.
 
