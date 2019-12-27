@@ -13,4 +13,3 @@ The content on this website has not been evaluated by any official organisation 
 The content on this website is not a substitute for seeking medical advice and medical advice should always be sought before embarking on any changes in diet or lifestyle.
 
 This is the author's diet and it is entirely up to him what is allowed and what is forbidden. If you don't agree with or like his decisions then you may read about or follow a different diet.
-
