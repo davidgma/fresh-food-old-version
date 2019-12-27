@@ -18,10 +18,12 @@ Food specifics:
     tinned foods
     frozen foods
     artificial ripening 
+    grains and sprouting
 
 Honey/sugar experiment; it matters where the nutrient came from
 List of diseases affected
 Eating in restaurants; store-bought food 
 Ready meals
 CR 
+
 
