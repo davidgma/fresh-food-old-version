@@ -1,3 +1,7 @@
+
+By David Ma
+
+
 # Introduction
 
 This is a diet based on a combination of:   
