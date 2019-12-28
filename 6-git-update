@@ -21,5 +21,5 @@ echo $message
 git add *
 git commit -a -m "${message}"
 git push
-ngh --cname=freshfood.davidgma.com
+ngh --cname=freshfood.rocks
 
