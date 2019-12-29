@@ -1,0 +1,10 @@
+<a name="exercise"></a>
+## Exercise
+
+I expect you already know that you should be taking some exercise. You don't need to take vast amounts, but you do need to take some.
+
+So much has been written about the benefits of exercise, and it is so squarely part of mainstream theories on health, that I won't repeat advice here that is already widely available. If you really can't find a website that gives advice on exercise, [try the NHS website](https://www.nhs.uk/live-well/exercise/).
+
+One thing that isn't always mentioned in mainstream advice on exercise is the advice given by the economist Steven Levitt, co-author of Freakonomics. He says that the best form of exercise is the exercise you enjoy. Otherwise you won't keep doing it. Other research has shown that humans only have a limited amount of willpower. Studies have found that if people expend willpower on, say, doing a boring gym workout, they will be less likely to resist some chocolate afterwards compared with control subjects who didn't first do the workout. As this diet requires quite a bit of willpower initially to get into the habit of only eating the foods allowed, expending too much willpower on doing some exercise that you don't really want to do may prevent you from sticking to the diet. But if you can find some exercise that you enjoy and so doesn't use up so much willpower, then that would be good.
+
+If you can't find any exercise that you enjoy, then try racquetball. It's really good fun. You can play it on an ordinary squash court. It doesn't matter if you don't know the rules, you can make them up or use the squash rules. The ball is really bouncy and so quite easy to get back. You don't have to play it competitively - just find a friend and hit the ball around the court without worrying about scoring or who is better. Instead of trying to hit the ball where your opponent can't return it, you can try hitting it where they can. If you are very unfit to begin with, take it very slowly until you get fitter.
