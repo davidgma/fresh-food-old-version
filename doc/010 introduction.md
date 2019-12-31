@@ -1,7 +1,8 @@
 
-By David Ma
-Email: thefreshfooddiet@gmail.com
-Website: https://freshfood.rocks
+# Author  
+David Ma  
+Email: thefreshfooddiet@gmail.com  
+Website: https://freshfood.rocks  
 
 # Introduction
 
