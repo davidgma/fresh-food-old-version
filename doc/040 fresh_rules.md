@@ -3,7 +3,7 @@
 
 These are the rules for what counts as genuinely fresh food. More details are given further down (at least they hopefully will be - this is work-in-progress), including many exceptions to the rules.
 
-1. Tinned/canned/jarred foods are forbidden.
+1. [Tinned/canned/jarred foods are forbidden][tinned].
 1. Foods that are kept fresh by the packaging, such as using a modified atmosphere, are forbidden.
 1. Pre-packaged foods with an ingredients list of more than 1 item are forbidden (e.g. ready meals).
 1. Foods that have been frozen for more than 2 weeks are forbidden.
@@ -17,3 +17,6 @@ These are the rules for what counts as genuinely fresh food. More details are gi
 It may seem like hardly anything is allowed on the diet, but that is really more of a reflection of the state the world has got to where only processed and long-life foods are eaten.
 
 You can eat fresh in-season fruit, vegetables, meat, fish, shellfish, eggs, butter, cream, home-made bone stock, grains, legumes, nuts, seeds, olive oil, coconut oil, herbs, spices and seaweed. You can eat small amounts of pickles or sauerkraut at any meal. You can eat at restaurants where they cook local in-season food from fresh. Sugar, particularly brown sugar or molasses, in moderation is allowed so you can eat home-made desserts. People ate these foods quite happily for thousands of years until recently and the enormous diversity of world cuisines evolved from eating only these foods.
+
+
+[tinned]: #tinned
