@@ -1,0 +1,25 @@
+<a name="packaging"></a>
+## Foods kept fresh-tasting by the packaging.
+
+Food producers use the packaging of their foods in various ways to keep the food fresh, or at least, to keep it appearing to be fresh.
+
+The main ways are packing the food in a vacuum, packing the food in a 'modified atmosphere' or simply packing the food in an airtight container that didn't have much air in it to begin with. 
+
+These techniques keep the food seemingly fresh because they discourage the growth of aerobic microbes. It's the effect of the aerobic microbes which cause the foods to go off in ways that are noticeable to humans. It makes them smell bad, grow mould and discolour (the foods that is, not the humans). But the techniques don't stop the growth of anaerobic microbes. Anaerobic microbes produce biogenic amines as a by-product, which, according to my theory, are harmful. Humans can't detect biogenic amines, possibly because evolution doesn't generally develop unnecessary abilities, and given that we can detect the effects of aerobic microbe growth, and in evolutionary times the two would have always occurred together, it would have been an unnecessary ability. 
+
+Also, as I noted in the previous section, I think it possible that the ability that humans do have to neutralise biogenic amines is reliant on the presence of the effects of aerobic microbes as a trigger. If I were Mother Nature looking for the best way to neutralise biogenic amines in the digestive system, I wouldn't do it based directly on the presence of biogenic amines because the body uses biogenic amines itself to regulate digestion. You would end up neutralising your own biogenic amines; an own goal. To ensure that you only neutralise unwanted biogenic amines in food it would make more sense to act based on some other trigger. The effects of aerobic microbes on food would seem like a reasonable way to do this because in normal circumstances aerobic and anaerobic microbes would both have the same chances for development so it should be possible to estimate the amount of biogenic amines (produced by anaerobic microbes) from the amount of some by-product of aerobic microbes. But if the food packaging stops the aerobic microbes but not the anaerobic microbes, in a way that would never have happened during our evolution, then the body is not going to neutralise the biogenic amines correctly.
+
+So any food that is kept supposedly 'fresh' by the packaging is, under this diet, prohibited. Packaging should only hold the food, not preserve it.
+
+Warning signs to look for are packaging that is completely airtight. Packaging with vacuums or a modified atmosphere seem to me to be more rigid - thicker plastic - so this might be a warning sign, I'm not sure. Personally, I try to avoid any airtight packaging but if there's no choice then if the plastic is quite thin and flimsy then I sometimes buy it.
+
+If the packaging says something like 'Once opened, use within x days' then this shows that the packaging is keeping the food fresh and so the food is prohibited.
+
+Even store-bought raw sauerkraut says this, which is surprising because the fermentation of the cabbage should stop it going off even once it's opened, I would have thought. Home-made sauerkraut should last for months or years I think. This is why I think it's best to make your own sauerkraut, but nevertheless, store-bought raw sauerkraut is not forbidden, just not recommended.
+
+Meat and fish that are pre-packed in airtight containers on supermarket shelves are an important part of this prohibition. They may not be eaten under any circumstances on this diet. For example, fish from the fishmonger's counter in supermarkets is usually fresh that day and is kept in the open air at just above freezing. But the pre-packed 'fresh' fish on the supermarket shelves can be stored there at up to 8 degrees centigrade for 10 days. The packaging stops the fish going off, but the anaerobic microbes have plenty of time to produce biogenic amines. The situation with meat is similar. So as mentioned in the notes on meat and fish, you must not buy the pre-packed meat and fish on the shelves. Always go to the butcher's or fishmonger's section, or to an actual butcher or fishmonger. And when you are there, remember to check that you don't buy anything that has been previously frozen. 
+
+The main exception to the above rule is that in some supermarkets with butcher sections, the butchers working there prepare some fresh meat themselves and put it in a package and onto the shelves, with a use-by date attached. So long as you buy the meat from that same day, you can buy it even though it is on the shelf. Ask the butcher for advice as to how to tell the difference in the packaging and what use-by date indicates that the meat is fresh that day. 
+
+This exception doesn't apply to fish as, even if the fish was put onto the shelves that day by the fishmonger, the shelves just aren't cold enough whereas on the fishmonger's counter the fish is kept on ice. Biogenic amines develop much faster in fish than in meat.
+

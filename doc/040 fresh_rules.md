@@ -4,7 +4,7 @@
 These are the rules for what counts as genuinely fresh food. More details are given further down (at least they hopefully will be - this is work-in-progress), including many exceptions to the rules.
 
 1. [Tinned/canned/jarred foods are forbidden][tinned].
-1. Foods that are kept fresh by the packaging, such as using a modified atmosphere, are forbidden.
+1. [Foods that are kept fresh-tasting by the packaging are forbidden][packaging].
 1. Pre-packaged foods with an ingredients list of more than 1 item are forbidden (e.g. ready meals).
 1. Foods that have been frozen for more than 2 weeks are forbidden.
 1. Artificially ripened foods are forbidden. In practice this means that foods must be either (i) local and in-season, or (ii) organic, from a country that is fairly close and in-season in that country.
@@ -20,3 +20,4 @@ You can eat fresh in-season fruit, vegetables, meat, fish, shellfish, eggs, butt
 
 
 [tinned]: #tinned
+[packaging]: #packaging
