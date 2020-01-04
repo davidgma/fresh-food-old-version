@@ -20,6 +20,7 @@ Food specifics:
     artificial ripening 
     grains and sprouting
     juice
+    salt
 Honey/sugar experiment; it matters where the nutrient came from
 List of diseases affected
 Eating in restaurants; store-bought food 
