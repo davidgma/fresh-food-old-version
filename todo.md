@@ -26,6 +26,6 @@ List of diseases affected
 Eating in restaurants; store-bought food 
 Ready meals
 CR
-Fermenting 
+Fermenting - make fermented foods prohibited?
 
 
