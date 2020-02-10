@@ -10,7 +10,7 @@ These are the rules for what counts as genuinely fresh food..
 1. [Artificially ripened foods are forbidden][ripened]. In practice this means that foods must be either (i) local and in-season, or (ii) organic, from a country that is fairly close and in-season in that country.
 1. Foods that require a [preparation process][preparation] that has only become available within the last 200 years are forbidden.
 1. Foods with a [shelf life][shelf-life] of more than 2 weeks, except where they are completely dry, or are entirely either fat or sugar, are forbidden.
-1. Fermented foods are forbidden except in small quantities. 
+1. [Fermented foods][fermented] are not recommended except in small quantities or infrequently. 
 1. Smoked foods are forbidden.
 1. Everything else is allowed.
 
@@ -26,4 +26,4 @@ You can eat fresh in-season fruit, vegetables, meat, fish, shellfish, eggs, butt
 [ripened]: #ripened
 [preparation]: #preparation
 [shelf-life]: #shelf-life
-
+[fermented]: #fermented
