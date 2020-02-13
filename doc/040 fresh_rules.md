@@ -11,7 +11,7 @@ These are the rules for what counts as genuinely fresh food..
 1. Foods that require a [preparation process][preparation] that has only become available within the last 200 years are forbidden.
 1. Foods with a [shelf life][shelf-life] of more than 2 weeks, except where they are completely dry, or are entirely either fat or sugar, are forbidden.
 1. [Fermented foods][fermented] are not recommended except in small quantities or infrequently. 
-1. Smoked foods are forbidden.
+1. [Smoked foods][smoked] are forbidden.
 1. Everything else is allowed.
 
 It may seem like hardly anything is allowed on the diet, but that is really more of a reflection of the state the world has got to where only processed and long-life foods are eaten.
@@ -27,3 +27,4 @@ You can eat fresh in-season fruit, vegetables, meat, fish, shellfish, eggs, butt
 [preparation]: #preparation
 [shelf-life]: #shelf-life
 [fermented]: #fermented
+[smoked]: #smoked
