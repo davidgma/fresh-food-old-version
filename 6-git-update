@@ -28,7 +28,7 @@ git push origin master
 
 # Update github pages
 git checkout gh-pages
-git checkout master dist
+git checkout master dist/*
 cp ./dist/index.html .
 rm -r dist
 git add *
