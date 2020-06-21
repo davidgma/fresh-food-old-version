@@ -32,9 +32,9 @@ echo checkout gh-pages
 git checkout gh-pages
 git branch
 echo Copying dist directory from master
-git checkout master dist/index.html
-cp ./dist/index.html .
-#rm -r dist
+git checkout master dist/*
+cp ./dist/* .
+rm -r dist
 git add *
 git commit -a -m "${message}"
 git push origin gh-pages
