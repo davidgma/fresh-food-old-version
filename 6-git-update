@@ -22,5 +22,5 @@ echo $message
 git add *
 git commit -a -m "${message}"
 git push
-ngh --cname=freshfood.rocks
+ng deploy --cname=freshfood.rocks
 
