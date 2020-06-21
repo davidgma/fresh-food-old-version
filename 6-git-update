@@ -22,5 +22,5 @@ echo $message
 git add *
 git commit -a -m "${message}"
 git push
-ng deploy --cname=freshfood.rocks
+# no longer works for non-Angular projects: ngh deploy --cname=freshfood.rocks
 
