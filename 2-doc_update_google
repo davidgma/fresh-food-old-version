@@ -9,9 +9,9 @@ mkdir -p ./dist
 # Copy and unzip the html file
 fileName1="The Fresh Food Diet.zip"
 fileName2=TheFreshFoodDiet.html
-unzip ~/Downloads/$fileName1 -d ./dist
+unzip ~/Downloads/"$fileName1" -d ./dist
 rm ~/Downloads/"$fileName1"
-mv ./dist/$fileName2 ./dist/index.html
+mv ./dist/"$fileName2" ./dist/index.html
 
 
 # Copy in the favicon
