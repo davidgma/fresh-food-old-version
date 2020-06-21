@@ -19,8 +19,15 @@ echo $message
 ./2-doc_update_google
 
 # Send to github
+git checkout master
 git add *
 git commit -a -m "${message}"
-git push
+git push origin master
 # no longer works for non-Angular projects: ngh deploy --cname=freshfood.rocks
+
+# Update github pages
+#git checkout gh-pages
+
+#git checkout master
+
 
