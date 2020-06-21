@@ -35,7 +35,7 @@ rm -r ./dist
 echo Copying dist directory from master
 git checkout master dist/*
 cp ./dist/* .
-#rm -r dist
+rm -r dist
 git add *
 git commit -a -m "${message}"
 git push origin gh-pages
