@@ -16,7 +16,7 @@ echo $message
 
 # Build the documentation
 # ./1-doc_update
-# ./2-doc_update_google
+./2-doc_update_google
 
 # Send master files to github
 git checkout master
