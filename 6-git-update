@@ -15,7 +15,8 @@ fi
 echo $message
 
 # Build the documentation
-./1-doc_update
+# ./1-doc_update
+./2-doc_update_google
 
 # Send to github
 git add *

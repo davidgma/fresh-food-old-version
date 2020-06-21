@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Starting from a download of the zipped html file from Google docs
+
+echo Clearing the dist directory
+rm -rf ./dist
+mkdir -p ./dist
+
+# Copy and unzip the html file
+unzip ~/Downloads/"The Fresh Food Diet.zip" -d ./dist
+mv ./dist/TheFreshFoodDiet.html ./dist/index.html
+
+
+# Copy in the favicon
+cp ./doc/favicon.png ./dist
+
+echo Setting up the local busybox server
+pkill -f "busybox httpd -p 4204 -h ./dist"
+busybox httpd -p 4204 -h ./dist
+echo Site served at http://localhost:4204
+
