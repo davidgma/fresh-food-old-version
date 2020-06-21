@@ -12,7 +12,7 @@ mv ./dist/TheFreshFoodDiet.html ./dist/index.html
 
 
 # Copy in the favicon
-cp ./doc/favicon.png ./dist
+cp ./favicon.png ./dist
 
 echo Setting up the local busybox server
 pkill -f "busybox httpd -p 4204 -h ./dist"
