@@ -38,6 +38,7 @@ done
 #stub1a="pandoc --from gfm --standalone --toc --highlight-style pygments"
 stub1a="pandoc --from gfm --standalone --highlight-style pygments"
 stub1b=" --metadata-file=pandoc-meta.yaml --include-in-header=header-includes.txt "
+#stub1b=" -M title-meta:"Fresh" --include-in-header=header-includes.txt "
 stub1c="-c pandoc"
 stub1=${stub1a}${stub1b}${stub1c}
 stub2=".css *.md --output "
