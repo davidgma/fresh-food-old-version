@@ -35,7 +35,11 @@ then
 fi
 done
 
-stub1="pandoc --from gfm --standalone --toc --highlight-style pygments --metadata-file=pandoc-meta.yaml -c pandoc"
+#stub1a="pandoc --from gfm --standalone --toc --highlight-style pygments"
+stub1a="pandoc --from gfm --standalone --highlight-style pygments"
+stub1b=" --metadata-file=pandoc-meta.yaml --include-in-header=header-includes.txt "
+stub1c="-c pandoc"
+stub1=${stub1a}${stub1b}${stub1c}
 stub2=".css *.md --output "
 
 function convert {
