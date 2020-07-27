@@ -1,0 +1,39 @@
+#!/bin/bash
+cd doc
+
+
+function resequence {
+    i=10
+
+    echo Resequencing files...
+    pattern='(^'$1'[01234567890 ]*)(.*)'
+
+    # count number of files
+    fc=0
+    for f in $1*.md;
+    do
+        let "fc=fc+1"
+    done
+    echo Number of files: $fc
+    # calculate the number of digits needed
+    let "fc=fc*10"
+    calc="echo (l($fc)/l(10)) + 1"
+    digitscount=$($calc | bc -l)
+    calc="echo scale=0;$digitscount/1"
+    digitscount=$($calc | bc -l)
+    echo Digits needed in filename: $digitscount
+
+    for f in $1*.md;
+    do
+    if [[ "$f" =~ $pattern ]]
+    then
+        calc="printf %0${digitscount}d $i"
+        iformatted=$($calc)
+        mv "$f" "$1$iformatted ${BASH_REMATCH[2]}" 2>/dev/null
+        let "i=i+10"
+    fi
+    done
+}
+
+resequence M
+resequence S

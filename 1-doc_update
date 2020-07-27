@@ -1,47 +1,53 @@
 #!/bin/bash
 cd doc
-i=10
 
 echo Clearing the dist directory
 rm -rf ../dist
-mkdir -p ../dist
+mkdir -p ../dist/icons
 
-echo Resequencing files...
-pattern='(^[01234567890 ]*)(.*)'
 
-# count number of files
-fc=0
-for f in *.md;
-do
-    let "fc=fc+1"
-done
-echo Number of files: $fc
-# calculate the number of digits needed
-let "fc=fc*10"
-calc="echo (l($fc)/l(10)) + 1"
-digitscount=$($calc | bc -l)
-calc="echo scale=0;$digitscount/1"
-digitscount=$($calc | bc -l)
-echo Digits needed in filename: $digitscount
+function resequence {
+    i=10
 
-for f in *.md;
-do
-if [[ "$f" =~ $pattern ]]
-then
-    calc="printf %0${digitscount}d $i"
-    iformatted=$($calc)
-    mv "$f" "$iformatted ${BASH_REMATCH[2]}" 2>/dev/null
-    let "i=i+10"
-fi
-done
+    echo Resequencing files...
+    pattern='(^'$1'[01234567890 ]*)(.*)'
 
-#stub1a="pandoc --from gfm --standalone --toc --highlight-style pygments"
+    # count number of files
+    fc=0
+    for f in $1*.md;
+    do
+        let "fc=fc+1"
+    done
+    echo Number of files: $fc
+    # calculate the number of digits needed
+    let "fc=fc*10"
+    calc="echo (l($fc)/l(10)) + 1"
+    digitscount=$($calc | bc -l)
+    calc="echo scale=0;$digitscount/1"
+    digitscount=$($calc | bc -l)
+    echo Digits needed in filename: $digitscount
+
+    for f in $1*.md;
+    do
+    if [[ "$f" =~ $pattern ]]
+    then
+        calc="printf %0${digitscount}d $i"
+        iformatted=$($calc)
+        mv "$f" "$1$iformatted ${BASH_REMATCH[2]}" 2>/dev/null
+        let "i=i+10"
+    fi
+    done
+}
+
+resequence M
+resequence S
+
+# For single page
 stub1a="pandoc --from gfm --standalone --highlight-style pygments"
 stub1b=" --metadata-file=pandoc-meta.yaml --include-in-header=header-includes.txt "
-#stub1b=" -M title-meta:"Fresh" --include-in-header=header-includes.txt "
 stub1c="-c pandoc"
 stub1=${stub1a}${stub1b}${stub1c}
-stub2=".css *.md --output "
+stub2=".css S*.md --output "
 
 function convert {
     echo Converting to $2...
@@ -54,8 +60,9 @@ function convert {
 convert index html
 convert freshfood epub 
 
-# Copy in the favicon
-cp favicon.png ../dist
+# Copy in the icons
+cp ./icons/* ../dist/icons
+#cp favicon.png ../dist
 
 echo Setting up the local busybox server
 cd ..
