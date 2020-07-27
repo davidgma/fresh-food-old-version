@@ -62,7 +62,7 @@ convert freshfood epub
 
 # Copy in the icons
 cp ./icons/* ../dist/icons
-#cp favicon.png ../dist
+cp favicon.png ../dist
 
 echo Setting up the local busybox server
 cd ..
