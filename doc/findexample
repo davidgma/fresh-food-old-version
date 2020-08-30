@@ -1,0 +1,5 @@
+#!/bin/bash
+
+file1=$(find . -name '*Trace*.md')
+echo file1 = $file1
+cat "$file1"
