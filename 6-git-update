@@ -31,7 +31,7 @@ ehco Updating github pages...
 echo checkout gh-pages
 git checkout gh-pages
 git branch
-rm -r ./dist
+rm -rf ./dist
 echo Copying dist directory from master
 git checkout master dist/*
 cp -r ./dist/* .
