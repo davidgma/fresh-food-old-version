@@ -43,11 +43,17 @@ resequence M
 resequence S
 
 # For single page
-stub1a="pandoc --from gfm --standalone --highlight-style pygments"
-stub1b=" --metadata-file=pandoc-meta.yaml --include-in-header=header-includes.txt "
+
+echo Clearing the tmp directory
+rm -rf ../tmp
+mkdir -p ../tmp
+cp S*.md ../tmp
+
+stub1a="pandoc --from gfm --standalone --toc --highlight-style pygments"
+stub1b=" --metadata-file=pandoc-meta.yaml --include-in-header=header-includes-single.txt "
 stub1c="-c pandoc"
 stub1=${stub1a}${stub1b}${stub1c}
-stub2=".css S*.md --output "
+stub2=".css ../tmp/S*.md --output "
 
 function convert {
     echo Converting to $2...
@@ -62,7 +68,7 @@ convert freshfood epub
 
 # Copy in the icons
 cp ./icons/* ../dist/icons
-cp favicon.png ../dist
+cp ../favicon.png ../dist/favicon.ico
 
 echo Setting up the local busybox server
 cd ..
