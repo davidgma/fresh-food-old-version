@@ -1,9 +1,8 @@
 #!/bin/bash
-cd doc
 
 echo Clearing the dist directory
-rm -rf ../dist
-mkdir -p ../dist/icons
+rm -rf dist
+mkdir -p dist/icons
 
 
 function resequence {
@@ -39,21 +38,28 @@ function resequence {
     done
 }
 
+cd doc
 resequence M
 resequence S
 
+################################
 # For single page
-
+################################
 echo Clearing the tmp directory
-rm -rf ../tmp
-mkdir -p ../tmp
-cp S*.md ../tmp
+cd ..
+rm -rf tmp
+mkdir -p tmp
+cd tmp
+cp ../doc/S*.md .
+cp ../doc/pandocepub.css .
+cp ../doc/pandochtml.css .
+
 
 stub1a="pandoc --from gfm --standalone --toc --highlight-style pygments"
-stub1b=" --metadata-file=pandoc-meta.yaml --include-in-header=header-includes-single.txt "
+stub1b=" --metadata-file=../doc/pandoc-meta.yaml --include-in-header=../doc/header-includes.txt "
 stub1c="-c pandoc"
 stub1=${stub1a}${stub1b}${stub1c}
-stub2=".css ../tmp/S*.md --output "
+stub2=".css S*.md --output "
 
 function convert {
     echo Converting to $2...
@@ -67,11 +73,20 @@ convert single_tmp html
 convert freshfood epub 
 
 # Replace the title
-sed -f replace_title_script.sed ../dist/single_tmp.html > ../dist/single.html
+sed -f ../doc/replace_title_script.sed ../dist/single_tmp.html > ../dist/single.html
 rm ../dist/single_tmp.html
 
+
+################################
+# For multiple pages
+################################
+
+# tmp:
+cp ../dist/single.html ../dist/index.html
+
+
 # Copy in the icons
-cp ./icons/* ../dist/icons
+cp ../doc/icons/* ../dist/icons
 cp ../favicon.png ../dist/favicon.ico
 
 echo Setting up the local busybox server
