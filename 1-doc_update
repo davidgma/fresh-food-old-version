@@ -13,7 +13,8 @@ function resequence {
 
     # count number of files
     fc=0
-    for f in $1*.md;
+    #for f in $1*.md;
+    for f in $1*;
     do
         let "fc=fc+1"
     done
@@ -26,7 +27,8 @@ function resequence {
     digitscount=$($calc | bc -l)
     echo Digits needed in filename: $digitscount
 
-    for f in $1*.md;
+    #for f in $1*.md;
+    for f in $1*;
     do
     if [[ "$f" =~ $pattern ]]
     then
@@ -81,8 +83,23 @@ rm ../dist/single_tmp.html
 # For multiple pages
 ################################
 
-# tmp:
-cp ../dist/single.html ../dist/index.html
+cd ../doc
+cp dashboard.css ../dist/
+
+# Starting html
+file1=$(find . -name '*header.html')
+cp "$file1" ../dist/index.html
+
+file2=$(find . -name '*introduction.md')
+#echo file2 = $file2
+pandoc "$file2" -f gfm -t html -o tmp.html
+cat tmp.html >> ../dist/index.html
+
+# Add ending html
+file2=$(find . -name '*footer.html')
+cat "$file2" >> ../dist/index.html
+
+
 
 
 # Copy in the icons

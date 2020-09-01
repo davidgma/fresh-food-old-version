@@ -1,4 +1,4 @@
 /<h1 class="title">/ {
-  r ../doc/title.md
+  r ../doc/title.html
   d
 }

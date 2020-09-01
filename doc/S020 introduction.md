@@ -1,5 +1,3 @@
-<div class="container-fluid" style="margin-top:30px">
-
 # Author  
 David Ma  
 Email: thefreshfooddiet@gmail.com    
