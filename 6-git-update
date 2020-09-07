@@ -27,7 +27,7 @@ git push origin master
 # no longer works for non-Angular projects: ngh deploy --cname=freshfood.rocks
 
 # Update github pages
-ehco Updating github pages...
+echo Updating github pages...
 echo checkout gh-pages
 git checkout gh-pages
 git branch
