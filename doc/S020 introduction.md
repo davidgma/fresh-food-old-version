@@ -9,7 +9,7 @@ Website: https://freshfood.rocks
 This is a diet based on a combination of:   
 
 1. Several fairly widely-accepted, although not exactly mainstream, concepts about the recent rise of obesity and other chronic illnesses.
-1. An entirely unproven theory of my own about biogenic amines that I've never heard anyone else suggest. It is contrary to mainstream theory.
+1. An entirely unproven theory of my own about biogenic amines that I've never heard anyone else suggest and is contrary to mainstream theory.
 
 It mainly involves eating fresh food, but what constitutes fresh is quite strict - some foods considered fresh by many people are forbidden.
 

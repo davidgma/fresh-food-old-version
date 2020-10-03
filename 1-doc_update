@@ -83,23 +83,74 @@ rm ../dist/single_tmp.html
 # For multiple pages
 ################################
 
+
+function append {
+    fileToAppend=$(find . -name "*$1")
+    #echo arg1: $1
+    echo fileToAppend: $fileToAppend
+    pandoc "$fileToAppend" -f gfm -t html -o tmp.html
+    cat tmp.html >> "$outputFile"
+}
+
+function start {
+    fileToStart=$(find . -name "*$1") 
+    cp "$fileToStart" "$outputFile"  
+}
+
+function finish {
+    fileToEnd=$(find . -name "*$1")
+    cat "$fileToEnd" >> "$outputFile"
+}
+
 cd ../doc
 cp dashboard.css ../dist/
 
-# Starting html
-file1=$(find . -name '*header.html')
-cp "$file1" ../dist/index.html
+# Main page
+outputFile="../dist/index.html"
+start header.html
+append introduction.md
+append disclaimer.md 
+append main_rules.md
+append fresh_rules.md
+finish footer.html
 
-file2=$(find . -name '*introduction.md')
-#echo file2 = $file2
-pandoc "$file2" -f gfm -t html -o tmp.html
-cat tmp.html >> ../dist/index.html
+# Theory
+outputFile="../dist/theory.html"
+start header.html
+append theory.md
+append biogenic_amines.md 
+append histamine_intolerance.md
+append the_human_study.md
+append the_pig_study.md
+append neuro.md
+append broken_mechanism.md
+finish footer.html
 
-# Add ending html
-file2=$(find . -name '*footer.html')
-cat "$file2" >> ../dist/index.html
+# Practice
+outputFile="../dist/practice.html"
+start header.html
+append practice.md
+append micronutrients.md 
+append compulsive.md
+append microbiome.md
+append exercise.md
+append sun.md
+append tinned.md
+append packaging.md
+append ingredients.md
+append frozen.md
+append ripened.md
+append preparation.md
+append shelf_life.md
+append smoked.md
+append meat_and_fish.md
+finish footer.html
 
-
+# Credit
+outputFile="../dist/credits.html"
+start header.html
+append end_credit.md
+finish footer.html
 
 
 # Copy in the icons
