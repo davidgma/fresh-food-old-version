@@ -3,7 +3,7 @@
 
 This section sets out the theories behind the main diet rules and the fresh food rules.
 
-You don't need to read any of this if you aren't interested. You can skip to the practical details further down.
+You don't need to read any of this if you aren't interested. You can skip to the practical details section.
 
 In the past 200 or so years, and especially in the past 40 years, there has been a huge increase in certain diseases. They broadly fit into the following categories:
 

@@ -1,7 +1,7 @@
 <a name="fresh_rules"></a>
 ## The Fresh Food Rules
 
-These are the rules for what counts as genuinely fresh food..
+These are the rules for what counts as genuinely fresh food.
 
 1. [Tinned/canned/jarred foods are forbidden][tinned].
 1. [Foods that are kept fresh-tasting by the packaging are forbidden][packaging].

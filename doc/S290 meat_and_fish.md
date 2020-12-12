@@ -12,5 +12,5 @@ As noted in the section on freezing foods, liver, while nutritious, is best avoi
 
 Seafood (e.g. shellfish) also accumulates biogenic amines very quickly. You have to make sure it's fresh that morning, or ideally still alive (e.g. for oysters, mussels, crab and langoustines sometimes).
 
-Salmon also accumulates biogenic amines very quickly and so salmon is only allowed on this diet if it is sashimi grade (you can still cook it).
+Salmon also accumulates biogenic amines very quickly and so ideally salmon should be sashimi grade (you can still cook it).
 
