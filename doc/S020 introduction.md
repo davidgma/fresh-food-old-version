@@ -19,7 +19,7 @@ It also involves various other behaviours which I consider healthy.
 
 I personally follow this diet and it seems to work for me. According to my genetic analysis on the website [23andMe.com][23andMe], I am predisposed to weigh 190 pounds (86kg, 13 stone 8) whereas I actually weigh 140 pounds (63kg, 10 stone). According to an MRI scan I have zero detectable calcified plaque in my heart and arteries, and my blood test levels for inflammation are always low. 
 
-Whether it works for anyone else or not - I don't know. But I wanted to set out my diet in case anyone else wants to try it or might find it interesting. If you are interested, you might consider trying [The 3-day Test][three_day]. But please note [The Mother Of All Disclaimers][disclaimer]. 
+Whether it works for anyone else or not - I don't know. But I wanted to set out my diet in case anyone else wants to try it or might find it interesting. You might consider trying [The 3-day Test][three_day]. But please note [The Mother Of All Disclaimers][disclaimer]. 
 
 Also, it is a low histamine/low biogenic amine diet, so anyone who, like me, has histamine intolerance, may find it interesting.
 
