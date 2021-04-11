@@ -1,4 +1,4 @@
-<a name="shelf-life"></a>
+<a name="shelf_life"></a>
 ## Foods with a long shelf life
 
 In general, if a food has a long shelf life, then it will probably contain a lot of biogenic amines, and so is forbidden on this diet.

@@ -102,6 +102,14 @@ function finish {
     cat "$fileToEnd" >> "$outputFile"
 }
 
+function fix_orphans {
+    search="#"$1
+    replace=$2".html#"$1
+    #echo $search
+    #echo $replace
+    sed -i "s/$search/$replace/" $outputFile
+}
+
 cd ../doc
 cp dashboard.css ../dist/
 
@@ -113,6 +121,23 @@ append disclaimer.md
 append main_rules.md
 append fresh_rules.md
 finish footer.html
+
+# Fix the orphaned links
+fix_orphans three_day practice
+fix_orphans micronutrients practice
+fix_orphans compulsive practice
+fix_orphans microbiome practice
+fix_orphans exercise practice
+fix_orphans sun practice
+fix_orphans tinned practice
+fix_orphans packaging practice
+fix_orphans ingredients practice
+fix_orphans frozen practice
+fix_orphans ripened practice
+fix_orphans preparation practice
+fix_orphans shelf_life practice
+fix_orphans fermented practice
+fix_orphans smoked practice
 
 # Theory
 outputFile="../dist/theory.html"
@@ -143,12 +168,18 @@ append frozen.md
 append ripened.md
 append preparation.md
 append shelf_life.md
+append fermented.md
 append smoked.md
 append meat_and_fish.md
 append tomatoes.md
 append rice.md
 append always_ok.md
+append three_day.md
+append very_safe.md
 finish footer.html
+
+# Fix the links
+fix_orphans fresh_rules index
 
 # Credit
 outputFile="../dist/credits.html"
