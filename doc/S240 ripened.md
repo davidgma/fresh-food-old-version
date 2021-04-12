@@ -32,7 +32,7 @@ The Soil Association has [rules on using ethylene](https://www.soilassociation.o
 
 Thanks to these rules, all organic fruit and vegetables are allowed on this diet, apart from bananas, kiwi fruit, kakis (whatever they are) and citrus fruit. Bananas, kiwi fruit, kakis and citrus fruit are therefore prohibited on this diet unless you are in a country where they are grown locally and are in season.
 
-However, even organic fruit and vegetables are not allowed on this diet if they come from far away. In the case of the UK for example, organic fruit and vegetables from continental Europe are fine, but not from further away. The transport time would be too long and so there's a danger that they will have too high levels of biogenic amines. It's also not very good for the environment if they've been transported such a long way. 
+However, even organic fruit and vegetables are not allowed on this diet if they come from far away. In the case of the UK for example, organic fruit and vegetables from continental Europe or Morocco are fine, but not from further away. The transport time would be too long and so there's a danger that they will have too high levels of biogenic amines. It's also not very good for the environment if they've been transported such a long way. 
 
 Also, the organic fruit and vegetables should be in season in the country from which they came.
 
