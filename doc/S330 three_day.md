@@ -15,6 +15,8 @@ Do it for 3 days. By the end of the 3 days and the morning of the 4th day, look 
 - If you have problems with your digestion such as recurrent belly ache, this should have improved.
 - If you have problems with itchy skin, this should have improved.
 - If you normally have to get up several times during the night to go to the loo, you should be able to sleep through the third night.
+- If you've been having unexplained anxiety or depression, you should start to feel a bit happier.
+- If you've been suffering from unexplained fatigue, you should start to feel a bit more lively and cheerful.
 
 Note that even if you do see an improvement, it could be due to 'reversion to mean', that is, it might have improved anyway. But you could consider continuing with the test a bit longer and see how it goes. I'd be interested to hear from you in any case.
 
