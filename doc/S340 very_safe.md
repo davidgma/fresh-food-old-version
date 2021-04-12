@@ -30,7 +30,7 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Sweet corn
 - Sweet pepper (ok year-round)
 - Sweet potato
-- Watercress (can be packed in a sealed environment)
+- Watercress (ok year-round) (can be packed in a sealed environment)
 
 ### Dairy (all ok year-round)
 
