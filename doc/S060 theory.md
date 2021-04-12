@@ -12,7 +12,7 @@ In the past 200 or so years, and especially in the past 40 years, there has been
 1. Metabolic syndrome diseases (e.g. weight gain, obesity, diabetes)
 1. Autoimmune diseases
 1. Cognitive diseases (e.g. Alzheimer's Disease)
-1. Neurological and neuropsychiatric diseases (e.g. eating disorders, schizophrenia, depression)
+1. Neurological and neuropsychiatric diseases (e.g. eating disorders, schizophrenia, depression, anxiety)
 
 These diseases are sometimes collectively called the 'diseases of industrialization'. Many of them could equally well be called the diseases of inflammation as chronic inflammation is common to many of them. 
 
