@@ -15,24 +15,24 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Asparagus
 - Beetroot (US=Beet)
 - Bok choi
-- Broccoli (ok year-round)
-- Carrot (ok year-round)
-- Cauliflower (ok year-round)
-- Celery (ok year-round)
+- Broccoli (OK year-round)
+- Carrot (OK year-round)
+- Cauliflower (OK year-round)
+- Celery (OK year-round)
 - Courgette (US=Zuccini)
-- Cucumber (ok year-round) (can be packed in a sealed environment)
+- Cucumber (OK year-round) (can be packed in a sealed environment)
 - Fennel
 - Leek
-- Lettuce (ok year-round) (can be packed in a sealed environment)
+- Lettuce (OK year-round) (can be packed in a sealed environment)
 - Parsnip
-- Radish (ok year-round)
+- Radish (OK year-round)
 - Rocket (US=Arugula)(ok year-round) (can be packed in a sealed environment)
 - Sweet corn
-- Sweet pepper (ok year-round)
+- Sweet pepper (OK year-round)
 - Sweet potato
-- Watercress (ok year-round) (can be packed in a sealed environment)
+- Watercress (OK year-round) (can be packed in a sealed environment)
 
-### Dairy (all ok year-round)
+### Dairy (all OK year-round)
 
 - Burrata cheese
 - Cream
@@ -40,9 +40,9 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Egg
 - Mascarpone cheese
 - Milk
-- Mozarrella cheese
+- Mozzarella cheese
 
-### Fats (all ok year-round)
+### Fats (all OK year-round)
 
 - Butter
 - Coconut oil
@@ -50,7 +50,7 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Olive oil
 - Tallow (home rendered)
 
-### Meat and fish (all ok year-round)
+### Meat and fish (all OK year-round)
 
 - Beef
 - Chicken
@@ -62,20 +62,20 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 
 ### Fruit
 
-- Apple (ok year-round)
+- Apple (OK year-round)
 - Blackberry
 - Blueberry
 - Cherry
 - Peach
 
-### Grains (all ok year-round)
+### Grains (all OK year-round)
 
 - Millet
 - Oat
 - Quinoa
 - Rice
 
-### Herbs and spices (can be fresh or dried) (all ok year-round)
+### Herbs and spices (can be fresh or dried) (all OK year-round)
 
 - Basil
 - Clove
@@ -90,7 +90,7 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Thyme
 - Turmeric
 
-### Drinks (all ok year-round)
+### Drinks (all OK year-round)
 
 - Green tea
 - Jasmine tea (white or green)
@@ -98,14 +98,14 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Water
 - White tea
 
-### Sweeteners (all ok year-round)
+### Sweeteners (all OK year-round)
 
 - Brown sugar
 - Honey
 
 ### Other
 
-- Salt (ok year-round)
+- Salt (OK year-round)
 
 
 [foodcompat]: https://www.mastzellaktivierung.info/downloads/foodlist/21_FoodList_EN_alphabetic_withCateg.pdf
