@@ -32,6 +32,12 @@ Note that The Fresh Food Diet is by no means limited to just these foods. Any fo
 - Sweet potato
 - Watercress (OK year-round) (can be packed in a sealed environment)
 
+### Roots and Squashes
+
+- Potato (ok year-round)
+- Butternut squash
+- Pumpkin
+
 ### Dairy (all OK year-round)
 
 - Burrata cheese
