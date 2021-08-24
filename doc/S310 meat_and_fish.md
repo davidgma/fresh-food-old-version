@@ -10,7 +10,7 @@ Tinned and frozen meat and fish is prohibited on this diet. Meat and fish bought
 
 As noted in the section on freezing foods, liver, while nutritious, is best avoided except on rare occasions, because biogenic amines accumulate really fast in it. It's almost impossible to get it sufficiently fresh in the modern world.
 
-Seafood (e.g. shellfish) also accumulates biogenic amines very quickly. You have to make sure it's fresh that morning, or ideally still alive (e.g. for oysters, mussels, crab and langoustines sometimes).
+Seafood (e.g. shellfish) also accumulates biogenic amines very quickly. You have to make sure it's fresh that morning, or ideally still alive until just before you cook it (e.g. for oysters, mussels, crab and langoustines sometimes).
 
 Salmon also accumulates biogenic amines very quickly and so ideally salmon should be sashimi grade (you can still cook it).
 
