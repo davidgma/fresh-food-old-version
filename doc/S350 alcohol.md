@@ -1,6 +1,6 @@
 ## Alcohol
 
-Alcohol isn't banned on the diet and I drink it myself in extreme moderation. But this is more because I really like it than because it's safe from a histamine point of view - it isn't. All low histamine diets advise against alcohol. 
+Alcohol isn't banned on the diet and I drink it myself in moderation. But this is more because I really like it than because it's safe from a histamine point of view - it isn't. All low histamine diets advise against alcohol. 
 
 So alcohol isn't recommended at all.
 
