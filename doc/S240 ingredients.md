@@ -13,7 +13,7 @@ Freshly made sandwiches, wraps and salads from cafés and shops are sometimes ok
 
 The shelf life for the above allowed foods from restaurants, cafés and shops should be basically that day only, or maybe one extra day, but you should eat them on the first day.
 
-The danger with other pre-prepared foods made offsite and with longer shelf lives is that they are very likely to be high in biogenic amines.
+The danger with other pre-prepared foods made offsite and with longer shelf lives is that they are very likely to be high in biogenic amines. However, pre-cooked foods with a use-by date that is 6 or more days away is generally ok.
 
 Ready meals are forbidden on this diet. Although I suspect there's a lot of variation between supermarkets (Waitrose ready meals may be better, I don't know), ready meals can be very high in biogenic amines. Sometimes the food in them is weeks or even months old. A lot of the ingredients can come from thousands of miles away and can have been stored in frozen form in central warehouses for very long periods. They use these ingredients because it keeps the costs down. By the time the food goes into the ready meal it sometimes has little or no flavour, colour or texture, so all sorts of additives are used to artificially add them back in. But the biogenic amines remain.
 
