@@ -3,7 +3,7 @@
 
 You may not be aware that a great number of fruits and vegetables in the 'fresh' food sections of supermarkets are artificially ripened. Sometimes even the staff in supermarkets haven't heard of it. So let me explain what it is.
 
-In the UK, as an example, normal tomatoes are in season fairly briefly in the summer. But tomatoes are available in supermarkets all year round. The main way that this is achieved is by growing enough tomatoes to meet supply for the whole year, and harvesting enough of them to supply the out-of-season period when they are still green and under-ripe. These under-ripe tomatoes are then kept at low temperatures for months until they are needed. Then they are warmed up and put in an ethylene environment, which causes them to ripen. They then look and taste like an in-season tomato. But during those months of storage, biogenic amines accumulate in them. This is probably the reason that a lot of people find that tomatoes gives them a headache.
+In the UK, as an example, normal tomatoes are in season fairly briefly in the summer. But tomatoes are available in supermarkets all year round. The main way that this is achieved is by growing enough tomatoes to meet supply for the whole year, and harvesting enough of them to supply the out-of-season period when they are still green and under-ripe. These under-ripe tomatoes are then kept at low temperatures for months until they are needed. Then they are warmed up and put in an ethylene environment, which causes them to ripen. They then look and taste like an in-season tomato. But during those months of storage, biogenic amines accumulate in them. This is probably the reason that a lot of people find that tomatoes give them a headache.
 
 Mainstream advice to people with histamine intolerance is to avoid tomatoes. But in my opinion this isn't very good advice. Firstly because it's possible to buy tomatoes that are not artificially ripened; these are absolutely fine. And secondly because lots of fruits and vegetables are artificially ripened and so it's far better to learn how to avoid artificially ripened food.
 
@@ -22,6 +22,10 @@ In fact, there is a variety of tomato available in the UK that can be eaten all 
 
 In the UK, another good option is to buy your fruit and vegetables from a reputable Farmer's Market. In these, it is generally a requirement that all the fruit and vegetables are local and in-season. 
 
+An exception to this rule is that berries (blackberries, blueberries, raspberries, strawberries) tend to always be alright even if they are from far away as I think they are flown in by air. So they aren't very good for the environment but they don't contain much histamine and are healthy.
+
+Also, as it can be hard sometimes finding foods from the same country as your are, for practical reasons it's not too bad to buy from a bit further afield, for example I sometimes buy vegetables from Spain and don't have any problems with them.
+
 ### Organic
 
 The Soil Association has [rules on using ethylene](https://www.soilassociation.org/media/15883/food-and-drink-standards.pdf):
@@ -31,8 +35,6 @@ The Soil Association has [rules on using ethylene](https://www.soilassociation.o
 > 2. to ripen citrus fruit as part of a strategy to prevent fruit fly damage  
 
 Thanks to these rules, all organic fruit and vegetables are allowed on this diet, apart from bananas, kiwi fruit, kakis (whatever they are) and citrus fruit. Bananas, kiwi fruit, kakis and citrus fruit are therefore prohibited on this diet unless you are in a country where they are grown locally and are in season.
-
-However, even organic fruit and vegetables are not allowed on this diet if they come from far away. In the case of the UK for example, organic fruit and vegetables from continental Europe or Morocco are fine, but not from further away. The transport time would be too long and so there's a danger that they will have too high levels of biogenic amines. It's also not very good for the environment if they've been transported such a long way. 
 
 Also, the organic fruit and vegetables should be in season in the country from which they came.
 
