@@ -138,6 +138,8 @@ fix_orphans preparation practice
 fix_orphans shelf_life practice
 fix_orphans fermented practice
 fix_orphans smoked practice
+fix_orphans practice practice
+fix_orphans theory theory
 
 # Theory
 outputFile="../dist/theory.html"
