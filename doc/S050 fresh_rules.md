@@ -18,6 +18,9 @@ It may seem like hardly anything is allowed on the diet, but that is really more
 
 You can eat fresh in-season fruit, vegetables, meat, fish, shellfish, eggs, butter, cream, home-made bone stock, grains, legumes, nuts, seeds, olive oil, coconut oil, herbs, spices and seaweed. You can eat small amounts of pickles or sauerkraut. You can eat at restaurants where they cook local in-season food from fresh. Sugar, particularly brown sugar or molasses, in moderation is allowed so you can eat home-made desserts. People ate these foods quite happily for thousands of years until recently and the enormous diversity of world cuisines evolved from eating only these foods.
 
+If you are interested in that sort of thing, you can read my [theories][theory] about this diet.
+
+If not, you could read more about the [practice][practice] of the diet.
 
 [tinned]: #tinned
 [packaging]: #packaging
@@ -28,3 +31,5 @@ You can eat fresh in-season fruit, vegetables, meat, fish, shellfish, eggs, butt
 [shelf_life]: #shelf_life
 [fermented]: #fermented
 [smoked]: #smoked
+[theory]: #theory
+[practice]: #practice
