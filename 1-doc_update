@@ -160,7 +160,8 @@ finish footer.html
 outputFile="../dist/practice.html"
 start header.html
 append practice.md
-append micronutrients.md 
+append micronutrients.md
+append gut.md 
 append compulsive.md
 append microbiome.md
 append exercise.md
