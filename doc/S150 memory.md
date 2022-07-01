@@ -23,7 +23,7 @@ Ready meals didn't exist as far as I remember. Few would have been able to affor
 
 Meat and fish that was pre-packed in protective environments on supermarket shelves didn't exist as far as I remember. There were butchers and fishmongers who sold fresh produce. Even a small village would have a butcher. Now they've all closed down and it's hard enough to find a butcher even in a big city.
 
-Frozen food existed but it wasn't really a thing until deep freezes became trendy in the late 1970s. Fridges in those days were tiny compared to nowadays and had a even tinier freezer compartment that was really just for making ice. You could maybe get a pack of frozen peas in there too at a push.
+Frozen food existed but it wasn't really a thing until deep freezes became trendy in the late 1970s. Fridges in those days were tiny compared to nowadays and had an even tinier freezer compartment that was really just for making ice. You could maybe get a pack of frozen peas in there too at a push.
 
 People ate 3 meals a day and there wasn't much snacking because there generally wasn't anything to snack on. You had to wait until the meal had been cooked. You might have a packet of crisps, some toast or some biscuits in between meals if you were particularly hungry. I would start getting pretty hungry an hour or so before lunch and supper and then I'd eat until I was full.
 
