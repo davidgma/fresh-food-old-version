@@ -7,7 +7,7 @@ It could be a coincidence that both humans and cats went for tens of thousands o
 
 If so, it could be considered quite helpful in narrowing down the causes of the increase in chronic disease because cats eat a much narrower range of foods. They basically eat meat and not much else. They don't tend to even like sugar.  
 
-The only real difference in the diet of cats is that they've gone from eating fresh meat from a butcher to eating tinned meat. Tinned meat most likely contains high levels of biogenic amines whereas fresh meat generally wouldn't. 
+The only real difference in the diet of cats is that they've gone from eating fresh meat from a butcher or from their own hunting to eating tinned meat. Tinned meat most likely contains high levels of biogenic amines whereas fresh meat generally wouldn't. 
 
 The manufacturers of tinned meat will certainly try to produce a product that cats will find compelling, so the theory of addictive/compelling food is quite plausible too. But the issue with this theory in my opinion is that it isn't very clear where the inflammation is coming from: if a food isn't inflammatory in small quantities, why would it be inflammatory in large quantities? Whereas the inflammatory nature of biogenic amines is very clear and well understood.  
 
