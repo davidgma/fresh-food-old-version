@@ -9,7 +9,9 @@ If so, it could be considered quite helpful in narrowing down the causes of the 
 
 The only real difference in the diet of cats is that they've gone from eating fresh meat from a butcher or from their own hunting to eating tinned meat. Tinned meat most likely contains high levels of biogenic amines whereas fresh meat generally wouldn't. 
 
-The manufacturers of tinned meat will certainly try to produce a product that cats will find compelling, so the theory of addictive/compelling food is quite plausible too. But the issue with this theory in my opinion is that it isn't very clear where the inflammation is coming from: if a food isn't inflammatory in small quantities, why would it be inflammatory in large quantities? Whereas the inflammatory nature of biogenic amines is very clear and well understood.  
+The manufacturers of tinned cat food will certainly try to produce a product that cats will find compelling, so the theory of addictive/compulsive food is quite plausible too. But the issue with this theory in my opinion is that it isn't very clear where the inflammation is coming from: if a food isn't inflammatory in small quantities, why would it be inflammatory in large quantities? Whereas the inflammatory nature of biogenic amines is very clear and well understood. In any case, The Fresh Food Diet prohibits addictive/compulsive foods.
 
-So I think that the most likely explanation for the increase in chronic diseases in cats is the biogenic amines in tinned cat food.
+Tinned cat food also contains a similar array of artificial additives as human processed food and this is likely a contributing factor too. The Fresh Food Diet also prohibits artificial additives.
+
+But I think that the most likely explanation for the increase in chronic diseases in cats is the biogenic amines in tinned cat food.
 
