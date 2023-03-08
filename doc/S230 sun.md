@@ -17,7 +17,7 @@ People who are non-white often think that they don't need exposure to the sun, a
 
 This is what I do:
 1. On a sunny day with a clear blue sky (it does happen in England sometimes), I go sunbathing.
-1. I check the strength of the UV radiation using a little meter I bought on Amazon. You tell it your skin type and it tells you how long you can safely spend in the sun. For me in England, the UV strength on a sunny day is typically 5 and it says I can stay out safely for about 50 minutes. But I will do much less than that even, especially at the start of the year when I am very white - I'll only do about 30 minutes. Towards the end of the summer, when I've developed a bit of a tan, I might go to about 45 minutes.
+1. I check the strength of the UV radiation using a little meter I bought on Amazon. You tell it your skin type and it tells you how long you can safely spend in the sun. For me in England, the UV strength on a sunny day is typically 5 and it says I can stay out safely for about 50 minutes. But I will do much less than that even, especially at the start of the year when I am very white - I'll only do about 12 minutes.
 1. I split the time into 4 sessions, 2 on my front, 2 on my back and each facing 2 different directions. I generally lie perpendicularly to the sun although I don't think it really matters.  
 1. I don't wear any sunblock or moisturising cream.
 1. I sunbathe full body apart from my trunks (I'm usually in a public place like a park).
