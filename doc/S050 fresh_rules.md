@@ -6,7 +6,6 @@ These are the rules for what counts as genuinely fresh food.
 1. [Tinned/canned/jarred foods are forbidden][tinned].
 1. [Foods that are kept fresh-tasting by the packaging are forbidden][packaging] (with some exceptions).
 1. [Foods with an ingredients list of more than 1 item are forbidden][ingredients] (with some exceptions).
-1. [Foods that have been frozen][frozen] for more than 2 weeks are forbidden.
 1. [Artificially ripened foods are forbidden][ripened]. In practice this means that foods must be either (i) local and in-season, or (ii) organic, from a country that is fairly close and in-season in that country, with some exceptions.
 1. Foods that require a [preparation process][preparation] that has only become available within the last 200 years are forbidden.
 1. Foods with a [shelf life][shelf_life] of more than 2 weeks, except where they are completely dry, or are entirely or almost entirely either fat or sugar, are forbidden.
@@ -25,7 +24,6 @@ If not, you could read more about the [practice][practice] of the diet.
 [tinned]: #tinned
 [packaging]: #packaging
 [ingredients]: #ingredients
-[frozen]: #frozen
 [ripened]: #ripened
 [preparation]: #preparation
 [shelf_life]: #shelf_life

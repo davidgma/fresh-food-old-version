@@ -132,7 +132,7 @@ fix_orphans sun practice
 fix_orphans tinned practice
 fix_orphans packaging practice
 fix_orphans ingredients practice
-fix_orphans frozen practice
+# fix_orphans frozen practice
 fix_orphans ripened practice
 fix_orphans preparation practice
 fix_orphans shelf_life practice
@@ -170,7 +170,7 @@ append sun.md
 append tinned.md
 append packaging.md
 append ingredients.md
-append frozen.md
+# append frozen.md
 append ripened.md
 append preparation.md
 append shelf_life.md
