@@ -1,6 +1,6 @@
 ## Always Ok
 
-Some foods tend to be low enough in biogenic amines that, although if you can get them local, in season and organic this is best, they can nevertheless be eaten year-round even if they come from a bit further afield. They have to be fresh of course in the sense of not being tinned/frozen etc. I eat these very regularly throughout the year and have no problems with them:
+Some foods tend to be low enough in biogenic amines that, although if you can get them local, in season and organic this is best, they can nevertheless be eaten year-round even if they come from a bit further afield. They have to be fresh of course in the sense of not being tinned etc. I eat these very regularly throughout the year and have no problems with them:
 
 Celery  
 Cucumber  

@@ -2,7 +2,7 @@
 
 ## The List of Very Safe Foods
 
-The following foods are particularly safe to eat. The rules still apply about them needing to be fresh (they can't be tinned, frozen, pickled, packed in a protective or sealed environment, vacuum-packed, preserved, ethylene ripened (so they should be local, in-season and ideally organic), dried (apart from grains, sugar, herbs and spices), pre-cooked or pre-processed). See the [practice][practice] and [fresh rules][fresh_rules] sections of this document for more details).
+The following foods are particularly safe to eat. The rules still apply about them needing to be fresh (they can't be tinned, pickled, packed in a protective or sealed environment, vacuum-packed, preserved, ethylene ripened (so they should be local, in-season and ideally organic), dried (apart from grains, sugar, herbs and spices), pre-cooked or pre-processed). See the [practice][practice] and [fresh rules][fresh_rules] sections of this document for more details).
 
 They are suitable for the 3-day test.
 
