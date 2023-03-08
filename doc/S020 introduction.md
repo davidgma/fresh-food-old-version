@@ -1,6 +1,6 @@
 
 # Author  
-David Mandow  
+David Ma  
 Email: thefreshfooddiet@gmail.com    
 Website: https://freshfood.rocks  
 
